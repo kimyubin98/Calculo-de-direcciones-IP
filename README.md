@@ -88,5 +88,3 @@ Notas:
 - Si no quieres usar el `.spec`, también puedes ejecutar `pyinstaller --onefile calculo_ip.py` para generar un único binario.
 - `upx=True` en el `.spec` permitirá comprimir el ejecutable si tienes `upx` instalado en tu sistema; si causa problemas, edita `calculo_ip.spec` y pon `upx=False` o instala `upx`.
 - En Windows, ejecuta los comandos desde PowerShell o cmd con permisos adecuados.
-
-Si quieres, puedo generar el ejecutable aquí y añadir el binario al repositorio (no recomendado) o preparar un release ZIP listo para subir a GitHub. ¿Qué prefieres?
