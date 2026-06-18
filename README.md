@@ -22,7 +22,7 @@ Una pequeña utilidad en Python para calcular información de subredes y planifi
 Clona el repositorio o descarga los archivos y ejecuta el script con Python:
 
 ```bash
-git clone <tu-repositorio>
+git clone github.com/kimyubin98/Calculo-de-direcciones-IP
 cd "Calculo de direcciones IP"
 python calculo_ip.py
 ```
