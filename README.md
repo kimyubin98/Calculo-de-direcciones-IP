@@ -61,12 +61,8 @@ Y para VLSM:
 **Contribuir**
 - Fork y pull requests son bienvenidos. Para cambios propuestos, añade tests o ejemplos si aplican.
 
-**Licencia**
-- Revisa el archivo [LICENSE](LICENSE) para detalles sobre la licencia del proyecto.
 
 ---
-
-Si quieres, puedo añadir ejemplos de salida reales, pruebas unitarias básicas o un archivo `requirements.txt` (aunque no hay dependencias externas). ¿Quieres que agregue alguno de esos ahora?
 
 **Construir ejecutable (PyInstaller)**
 
